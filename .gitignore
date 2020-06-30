@@ -1,0 +1,16 @@
+/public/storage
+/vendor
+/.idea
+.env
+/public/git-webhook.txt
+/public/git-webhook.html
+/Update.sh
+/public/.well-known/
+/public/logs
+/app/Implenments/
+/app/interfaces/
+/storage/exports
+.DS_Store
+test.php
+.xls
+/public/xls
